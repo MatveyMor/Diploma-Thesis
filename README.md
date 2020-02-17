@@ -1,1 +1,2 @@
-# GPAdversarial
+# Matvey Morozov
+## Diploma Thesis
